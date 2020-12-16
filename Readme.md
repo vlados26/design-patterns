@@ -5,6 +5,7 @@
 There are 3 types of patterns (behavioral, creational, sctructural)
 
 - [Singleton](#singleton)
+- [Factory](#factory)
 
 ## Singleton
 
