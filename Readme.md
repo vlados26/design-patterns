@@ -1,5 +1,11 @@
 <h1 align="center">Design-Patterns</h1>
 
+## List of patterns
+
+There are 3 types of patterns (behavioral, creational, sctructural)
+
+- [Singleton](#singleton)
+
 ## Singleton
 
 Sigleton return one instance of the class for every call. <br>
