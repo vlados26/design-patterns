@@ -20,10 +20,10 @@ class Counter {
 const myCount1 = new Counter();
 const myCount2 = new Counter();
 
-myCount1.increaseCount(); // count: 1
-myCount1.increaseCount(); // count: 2
-myCount2.increaseCount(); // count: 3
-myCount2.increaseCount(); // count: 4
+myCount1.increaseCount(); // 1
+myCount1.increaseCount(); // 2
+myCount2.increaseCount(); // 3
+myCount2.increaseCount(); // 4
 
 console.log("myCount1: ", myCount1.getCount()); // 4
 console.log("myCount2: ", myCount2.getCount()); // 4
